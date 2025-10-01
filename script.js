@@ -31,3 +31,8 @@ function divide(a, b) {
   }
   return a / b;
 }
+
+// Function to calculate the exponent of a number
+function exponent(base, power) {
+  return Math.pow(base, power);
+}
